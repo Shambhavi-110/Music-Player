@@ -96,7 +96,6 @@ No additional setup or installation is required.
 Through this project, I strengthened my understanding of:
 
 - DOM Manipulation
-- JavaScript Audio API
 - Event Handling
 - Responsive Web Design
 - CSS Animations
