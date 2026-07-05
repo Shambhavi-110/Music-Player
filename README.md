@@ -54,25 +54,11 @@ Music-Player/
 
 ### Home Screen
 
-![Music Player Screenshot](images/music-player-home.png)
-
-> Replace the image path with your own screenshots after uploading them to the repository.
+![Music Player Screenshot](music player image.png)
 
 ---
-
-## 🚀 Getting Started
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/your-username/CodeAlpha_MusicPlayer.git
-```
-
-### Open the Project
-
-Simply open **index.html** in your preferred web browser.
-
-No additional setup or installation is required.
+### open the repository
+https://shambhavi-110.github.io/Music-Player/
 
 ---
 
