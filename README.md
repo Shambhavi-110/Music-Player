@@ -44,10 +44,8 @@ Music-Player/
 │── style.css
 │── script.js
 │── README.md
-│
-├── assets/
-│   ├── images/
-│   └── songs/
+│── images
+│── music
 ```
 
 ---
