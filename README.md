@@ -54,7 +54,7 @@ Music-Player/
 
 ### Home Screen
 
-![Music Player Screenshot](music player image.png)
+![Music Player Screenshot](music%20player%20image.png)
 
 ---
 ### open the repository
